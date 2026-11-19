@@ -1,0 +1,10 @@
+# Lo que no necesita la imagen web (el contexto de build es la raíz del proyecto)
+.git
+.gitignore
+.env
+.env.example
+DOCUMENTACION.docx
+evidencias/
+database/
+docker-compose.yml
+Dockerfile

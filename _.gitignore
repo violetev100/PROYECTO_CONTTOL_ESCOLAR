@@ -1,0 +1,15 @@
+# Credenciales reales
+.env
+
+# Respaldos de la base de datos
+respaldo_*.sql
+
+# Temporales de Word y del sistema
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/

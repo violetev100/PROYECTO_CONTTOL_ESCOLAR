@@ -1,0 +1,11 @@
+body{font-family:system-ui,Segoe UI,Arial,sans-serif;margin:0;background:#f4f6f8;color:#222}
+nav{display:flex;gap:14px;align-items:center;flex-wrap:wrap;background:#1f3a5f;color:#fff;padding:10px 20px}
+nav a{color:#cfe0ff;text-decoration:none}nav a:hover{color:#fff}.sp{flex:1}
+main{max-width:1000px;margin:20px auto;padding:0 16px}
+table{border-collapse:collapse;width:100%;background:#fff}th,td{border:1px solid #dde;padding:8px;text-align:left}th{background:#e8eef6}
+label{display:block;margin:10px 0}input,select{padding:7px;min-width:260px;border:1px solid #bbc;border-radius:4px}input.n{min-width:0;width:70px}
+.btn{background:#1f3a5f;color:#fff;border:0;padding:8px 16px;border-radius:4px;text-decoration:none;cursor:pointer;display:inline-block}
+.link{background:none;border:0;color:#b00;cursor:pointer;padding:0}
+.flash{padding:10px;border-radius:4px}.ok{background:#dff5e1}.err{background:#fde0e0}
+.cards{display:flex;gap:12px;flex-wrap:wrap}.card{background:#fff;border:1px solid #dde;padding:16px 28px;text-align:center;text-decoration:none;color:#222;border-radius:6px}.card b{font-size:2em}
+.muted{color:#777}body.login{display:grid;place-items:center;height:100vh}body.login form{background:#fff;padding:24px;border-radius:8px;width:300px}body.login input{min-width:0;width:100%;box-sizing:border-box}
